@@ -26,7 +26,10 @@ SECRET_KEY = 'django-insecure-dgeo6@^_9d41)7t4*(t53pf^swm+q8md1lvtpxmyero!(^3@jm
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'taskmaster-todo-app.onrender.com',
+     'taskmaster-todo-app.onrender.com',
+    'www.taskmaster-todo-app.onrender.com',
+    'localhost',
+    '127.0.0.1',
 ]
 
 
